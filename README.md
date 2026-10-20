@@ -20,7 +20,7 @@ No seed yet? The **[Seed Finder](https://minecraftseedfinder.com/minecraft-seed-
 | 🗄️ [Seeds Database](https://minecraftseedfinder.com/seeds/) | Thousands of rated seeds, searchable |
 
 ## 📝 Also on GitHub
-- [Best Minecraft Seeds — Gist](https://gist.github.com/Mehakz0/adb6072a35a4c89c489553dcd6d5b46a)
+- [Best Minecraft Seeds — Gist](https://gist.github.com/minecraftseedfinder/adb6072a35a4c89c489553dcd6d5b46a)
 
 ## 💬 Community
 - **Discord:** https://discord.gg/39pNqPWbp — daily seed showcases & seed requests
