@@ -21,6 +21,7 @@ No seed yet? The **[Seed Finder](https://minecraftseedfinder.com/minecraft-seed-
 
 ## 📝 Also on GitHub
 - [Best Minecraft Seeds — Gist](https://gist.github.com/minecraftseedfinder/adb6072a35a4c89c489553dcd6d5b46a)
+- [SEEDS.md](SEEDS.md) — every seed in one table
 
 ## 💬 Community
 - **Discord:** https://discord.gg/39pNqPWbp — daily seed showcases & seed requests
