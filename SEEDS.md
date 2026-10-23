@@ -14,3 +14,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 3212 | Java | 26.3 | Twin Villages, Two Ancient Cities | Village (~150b), Ancient City (~260b), Village (~380b), Ancient City (~490b) | https://minecraftseedfinder.com/best-minecraft-seeds/village-seeds/ |
 | 3388 | Java | 26.3 | Triple Village Cluster | Village (~190b), Village (~210b), Pillager Outpost (~510b), Village (~520b) | https://minecraftseedfinder.com/best-minecraft-seeds/village-seeds/ |
 | 1527 | Java | 26.3 | Villages at Spawn + Trial Chamber | Village (~160b), Village (~310b), Trial Chamber (~760b) | https://minecraftseedfinder.com/best-minecraft-seeds/village-seeds/ |
+| 377 | Java | 26.3 | Balanced Ocean Survival | Ancient City (~420b), Ocean Monument (~460b), Village (~890b) | https://minecraftseedfinder.com/best-minecraft-seeds/island/ |
+| 4850 | Java | 26.3 | The Deep Ocean World | Ocean Monument (~260b), Shipwreck (~860b), Village (~780b) | https://minecraftseedfinder.com/best-minecraft-seeds/island/ |
+| 1035 | Java | 26.3 | Ocean Monuments Everywhere | Ancient City (~240b), Ocean Monument (~460b), Village (~550b) | https://minecraftseedfinder.com/best-minecraft-seeds/island/ |
+| 23 | Java | 26.3 | Mushroom Island Waters | Mushroom Fields (4.3%), Ancient City (~250b), Pillager Outpost (~330b) | https://minecraftseedfinder.com/best-minecraft-seeds/island/ |
+| 3093 | Java | 26.3 | Warm Waters + Ancient City | Ancient City (~180b), Ocean Monument (~800b), Shipwreck (~1,250b) | https://minecraftseedfinder.com/best-minecraft-seeds/island/ |
