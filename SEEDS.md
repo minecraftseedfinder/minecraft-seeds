@@ -24,3 +24,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 2684991254 | Java & Bedrock | 1.20–1.21 era (verify grove on 26.3 per source page) | Cherry blossom | Cherry grove lake at spawn, peaceful terrain, ideal building spot | https://minecraftseedfinder.com/best-minecraft-seeds/cherry-blossom/ |
 | 5873088344569389985 | Java & Bedrock | 1.20–1.21 era (verify grove on 26.3 per source page) | Cherry blossom | Massive cherry forest on plateau, mountain scenery | https://minecraftseedfinder.com/best-minecraft-seeds/cherry-blossom/ |
 | 1669320484 | Java | 1.20–1.21 era (verify grove on 26.3 per source page) | Cherry blossom | Multiple cherry groves near spawn, villages nearby | https://minecraftseedfinder.com/best-minecraft-seeds/cherry-blossom/ |
+|8|Java|1.21|The Perfect Starter|Village, double trial chambers, ancient city|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
+|12|Java|1.21|Double Village Survival|Two villages by spawn, trial chamber nearby|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
+|4|Java|1.21|Triple Trial Chamber|Three trial chambers, village base|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
+|32|Java|1.21|Mushroom Island + Trials|Mushroom fields, trial chamber, monument|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
+|224|Java|1.21|Mansion, Monument, Trials|Mansion, monument, trial chambers|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
