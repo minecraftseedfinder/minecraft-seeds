@@ -29,3 +29,11 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 |4|Java|1.21|Triple Trial Chamber|Three trial chambers, village base|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
 |32|Java|1.21|Mushroom Island + Trials|Mushroom fields, trial chamber, monument|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
 |224|Java|1.21|Mansion, Monument, Trials|Mansion, monument, trial chambers|https://minecraftseedfinder.com/best-minecraft-seeds/1-21/|
+| 302304127329527063 | Bedrock | Bedrock (recent releases) | Four Villages at Spawn | Multiple villages near spawn, strong early resources | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
+| 5096400208146136927 | Bedrock | Bedrock (recent releases) | The Structure Cluster | Village, mansion, jungle temple, ruined portal, trail ruins nearby | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
+| 1072901690525385019 | Bedrock | Bedrock (recent releases) | Mushroom Island Region | Mushroom island region, safe base, ocean exploration | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
+| -7197042685382216704 | Bedrock | Bedrock (recent releases) | Island Survival, Done Right | Island with village, cherry grove, ravines, ruined portal | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
+| -631232650754339095 | Bedrock | Bedrock (recent releases) | Cherry Grove Dreams | Cherry grove, nearby village, ruined portal, varied bordering biomes | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
+
+
+
