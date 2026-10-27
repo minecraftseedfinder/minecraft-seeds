@@ -34,6 +34,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 1072901690525385019 | Bedrock | Bedrock (recent releases) | Mushroom Island Region | Mushroom island region, safe base, ocean exploration | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
 | -7197042685382216704 | Bedrock | Bedrock (recent releases) | Island Survival, Done Right | Island with village, cherry grove, ravines, ruined portal | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
 | -631232650754339095 | Bedrock | Bedrock (recent releases) | Cherry Grove Dreams | Cherry grove, nearby village, ruined portal, varied bordering biomes | https://minecraftseedfinder.com/best-minecraft-seeds/bedrock/ |
-
-
-
+| 1693 | Java | 26.3 | The Survival Powerhouse | Village (404b), Woodland Mansion (419b), Ocean Monument (513b), Ancient City (781b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
+| 447 | Java | 26.3 | Village Before Dark | Pillager Outpost (209b), Village (280b), Ocean Monument (471b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
+| 2068 | Java | 26.3 | Desert Start, Double Deep Dark | Pillager Outpost (182b), Ancient City (258b), Village (374b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
+| 3711 | Java | 26.3 | Raider's Delight | Pillager Outpost (250b), Village (409b), Jungle Temple (467b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
+| 2195 | Java | 26.3 | Ancient City at Your Feet | Ancient City (238b), Village (373b), Trial Chamber (880b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
