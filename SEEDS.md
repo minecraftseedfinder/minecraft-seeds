@@ -39,3 +39,11 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 2068 | Java | 26.3 | Desert Start, Double Deep Dark | Pillager Outpost (182b), Ancient City (258b), Village (374b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
 | 3711 | Java | 26.3 | Raider's Delight | Pillager Outpost (250b), Village (409b), Jungle Temple (467b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
 | 2195 | Java | 26.3 | Ancient City at Your Feet | Ancient City (238b), Village (373b), Trial Chamber (880b) | https://minecraftseedfinder.com/best-minecraft-seeds/survival/ |
+| 16821 | Java | 26.3 | Desert Village 96 Blocks From Spawn | Desert Village (~96 blocks), Trial Chamber (~379), Desert Temple (~524), Ancient City (~580), Shipwreck (~473) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-desert/ |
+| 1994 | Java | 26.3 | Desert Village 193 Blocks From Spawn, Temple at 368 | Desert Village (~193 blocks), Trial Chamber (~330), Desert Temple (~368), Ancient City (~738), Jungle (~755) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-desert/ |
+| 3696 | Java | 26.3 | Desert Village 317 Blocks From Spawn, Spawn in Desert | Desert Village (~317 blocks), Trial Chamber (~236), Desert Temple (~502), Jungle (~410), Witch Hut (~1,465) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-desert/ |
+| 3023 | Java | 26.3 | Desert Village 616 Blocks From Spawn, Trial Chamber at 93 | Trial Chamber (~93 blocks), Desert Village (~616), Pillager Outpost (~631), Desert Temple (~741), Shipwreck (~275) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-desert/ |
+| 18434 | Java | 26.3 | Desert Village 487 Blocks From Spawn, Ancient City at 129 | Ancient City (~129 blocks), Trial Chamber (~330), Desert Village (~487), Desert Temple (~487), Shipwreck (~852) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-desert/ |
+
+
+
