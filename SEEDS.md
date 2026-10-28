@@ -47,3 +47,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 
 
 
+| 81964461562678 | Java | 26.3 | Dappled Forest at Spawn | Dappled Forest at spawn, Ancient City (~233b), Abandoned Camp nearby, Cherry Grove (~143b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
+| 114985653159962 | Java | 26.3 | Camp, Chambers and Autumn Woods | Dappled Forest (~136b), Abandoned Camp (~240b), Trial Chambers, Cherry Grove | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
+| 7056296191159444483 | Java | 26.3 | Dappled Forest and Cherry Grove | Dappled Forest, Cherry Grove nearby, Mineshaft close | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
+| 787419271612053211 | Java | 26.3 | Pixlriffs Survival Guide World | Dappled Forest, Featured in Survival Guide S3, Abandoned Camp | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
+| 100000026363067018 | Java & Bedrock | Bedrock 26.50+ / Java 26.3+ | Dappled Forest Clearing | Dappled Forest at spawn, River, Cross-platform | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
