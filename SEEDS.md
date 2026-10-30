@@ -52,3 +52,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 7056296191159444483 | Java | 26.3 | Dappled Forest and Cherry Grove | Dappled Forest, Cherry Grove nearby, Mineshaft close | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
 | 787419271612053211 | Java | 26.3 | Pixlriffs Survival Guide World | Dappled Forest, Featured in Survival Guide S3, Abandoned Camp | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
 | 100000026363067018 | Java & Bedrock | Bedrock 26.50+ / Java 26.3+ | Dappled Forest Clearing | Dappled Forest at spawn, River, Cross-platform | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-dappled-forest-seed/ |
+|8580|Java|Java (version not stated on page)|Hardcore|Village (~36 blocks), Village at spawn, gentle plains|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
+|13362|Java|Java (version not stated on page)|Hardcore|Village (~36 blocks), Village at spawn, three villages nearby|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
+|16343|Java|Java (version not stated on page)|Hardcore|Village (~48 blocks), Village at spawn, calm terrain|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
+|8004|Java|Java (version not stated on page)|Hardcore|Villages (~68 blocks), Three villages in range|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
+|10604|Java|Java (version not stated on page)|Hardcore|Village (~80 blocks), Village at spawn, rich plains|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
