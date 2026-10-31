@@ -57,3 +57,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 |16343|Java|Java (version not stated on page)|Hardcore|Village (~48 blocks), Village at spawn, calm terrain|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
 |8004|Java|Java (version not stated on page)|Hardcore|Villages (~68 blocks), Three villages in range|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
 |10604|Java|Java (version not stated on page)|Hardcore|Village (~80 blocks), Village at spawn, rich plains|https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-for-hardcore/|
+| 14045 | Java | 26.3 | Village at spawn | Village at spawn (0b), Trial Chamber (~365b), Shipwreck (~397b), Ocean Monument (~466b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-village-at-spawn/ |
+| 3455 | Java | 26.3 | Village at spawn | Village at spawn (0b), second Village (~375b), Trial Chamber (~192b), Ocean Monument (~484b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-village-at-spawn/ |
+| 14133 | Java | 26.3 | Village at spawn | Village at spawn (0b), Trial Chamber (~179b), Ancient City (~693b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-village-at-spawn/ |
+| 11425 | Java | 26.3 | Village at spawn | Village (~16b), Trial Chamber (~179b), Shipwreck (~415b), Ocean Monument (~555b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-village-at-spawn/ |
+| 2211 | Java | 26.3 | Village at spawn | Village (~16b), Shipwreck (~125b), Trial Chamber (~198b), Ocean Monument (~538b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-village-at-spawn/ |
