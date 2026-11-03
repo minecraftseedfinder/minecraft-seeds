@@ -72,3 +72,12 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 13442 | Java | 26.3 | Giant village | 4 villages (3 within ~335b), Trial Chamber (~32b from spawn) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-giant-village/ |
 | 4623 | Java | 26.3 | Giant village | 3 villages within ~340b, Ocean Monument (~328b), Trial Chamber (~225b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-giant-village/ |
 | 14609 | Java | 26.3 | Giant village | 3 villages within ~365b, Trial Chamber (~53b from spawn) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-giant-village/ |
+
+| 10861 | Java | 1.20.1 | Mansion, Witch Hut, and Jungle Temple | Mansion (~299b), Witch Hut (~462b), Village (~1,048b) | https://minecraftseedfinder.com/best-minecraft-seeds/1-20/ |
+| 12409 | Java | 1.20.1 | Ancient City 195 Blocks From Spawn | Ancient City (~195b), Village (~927b) | https://minecraftseedfinder.com/best-minecraft-seeds/1-20/ |
+| 11772 | Java | 1.20.1 | Ancient City 158 Blocks Out, Two Mansions | Ancient City (~158b), two Woodland Mansions, Village (~541b) | https://minecraftseedfinder.com/best-minecraft-seeds/1-20/ |
+| 18388 | Java | 1.20.1 | Ancient City 102 Blocks From Spawn | Ancient City (~102b), two Villages, Village (~336b) | https://minecraftseedfinder.com/best-minecraft-seeds/1-20/ |
+| 19046 | Java | 1.20.1 | Ancient City, Monument, and Village Triangle | Ancient City (~233b), Ocean Monument (~304b), Village (~659b) | https://minecraftseedfinder.com/best-minecraft-seeds/1-20/ |
+
+
+
