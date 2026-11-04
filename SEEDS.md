@@ -81,3 +81,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 
 
 
+| 2111 | Java | Java (version not stated on page) | Herobrine | Deep dark + double ancient city, Ancient city (~272b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
+| 2309 | Java | Java (version not stated on page) | Herobrine | Ancient city over your head, Ancient city (~307b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
+| 2563 | Java | Java (version not stated on page) | Herobrine | Ancient city + mansion combo, Ancient city (~193b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
+| 935 | Java | Java (version not stated on page) | Herobrine | Two ancient cities at spawn, Ancient city (~200b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
+| 1194 | Java | Java (version not stated on page) | Herobrine | Deep dark directly below spawn, Ancient city (~236b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
