@@ -86,3 +86,10 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 2563 | Java | Java (version not stated on page) | Herobrine | Ancient city + mansion combo, Ancient city (~193b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
 | 935 | Java | Java (version not stated on page) | Herobrine | Two ancient cities at spawn, Ancient city (~200b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
 | 1194 | Java | Java (version not stated on page) | Herobrine | Deep dark directly below spawn, Ancient city (~236b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
+
+| 9850 | Java | 26.3 | Mansion at 294 Blocks With an Outpost Next Door | Woodland Mansion (~294b), Pillager Outpost (~340b), Village (~611b), Desert Temple (~757b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
+| 14519 | Java | 26.3 | Village at 369 Blocks, Mansion at 535 | Village (~369b), Woodland Mansion (~535b), Ancient City (~307b), Trial Chamber (~397b), Trail Ruins (~486b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
+| 6985 | Java | 26.3 | Ocean Monument at 413 Blocks | Ocean Monument (~413b), Trial Chamber (~280b), Woodland Mansion (~466b), Ancient City (~555b), Village (~895b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
+| 5315 | Java | 26.3 | Mansion at 260 Blocks | Woodland Mansion (~260b), Trial Chamber (~258b), Ancient City (~533b), Village (~653b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
+
+
