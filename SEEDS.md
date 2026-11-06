@@ -87,9 +87,14 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 935 | Java | Java (version not stated on page) | Herobrine | Two ancient cities at spawn, Ancient city (~200b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
 | 1194 | Java | Java (version not stated on page) | Herobrine | Deep dark directly below spawn, Ancient city (~236b) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-herobrine/ |
 
-| 9850 | Java | 26.3 | Mansion at 294 Blocks With an Outpost Next Door | Woodland Mansion (~294b), Pillager Outpost (~340b), Village (~611b), Desert Temple (~757b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
+| 9850 | Java | 26.3 | Mansion at 294 Blocks With an Outpost Next Door | Woodland Mansion (~294b), Trial Chamber (~326b), Pillager Outpost (~340b), Village (~611b), Desert Temple (~757b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
 | 14519 | Java | 26.3 | Village at 369 Blocks, Mansion at 535 | Village (~369b), Woodland Mansion (~535b), Ancient City (~307b), Trial Chamber (~397b), Trail Ruins (~486b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
 | 6985 | Java | 26.3 | Ocean Monument at 413 Blocks | Ocean Monument (~413b), Trial Chamber (~280b), Woodland Mansion (~466b), Ancient City (~555b), Village (~895b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
 | 5315 | Java | 26.3 | Mansion at 260 Blocks | Woodland Mansion (~260b), Trial Chamber (~258b), Ancient City (~533b), Village (~653b) | https://minecraftseedfinder.com/best-minecraft-seeds/best-minecraft-seeds-java-edition/ |
 
 
+| 7965 | Java | 26.3 | Monument at 150 Blocks | Ocean Monument (~150b), Village (~385b), Shipwreck (~240b), Ocean Monument (~615b), 33.8% ocean coverage | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
+| 5282 | Java | 26.3 | The 40% Ocean World | Ocean Monument (~273b), 39.8% ocean coverage, Pillager Outpost (~889b), Shipwreck (~253b) | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
+| 16864 | Java | 26.3 | Monument + Village in the Deep | Shipwreck (~274b), Village (~319b), Ocean Monument (~466b), 34.7% ocean coverage | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
+| 8752 | Java | 26.3 | Village Island in the Deep | Deep Ocean (18.0%), Village (~122b), Ocean Monument (~734b), Shipwreck (~417b) | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
+| 17613 | Java | 26.3 | Mansion + Monument Pair | Ocean-family coverage ~48.5% (Deep Ocean 19.1%), Woodland Mansion (~590b), Ocean Monument (~590b), Village (~1,074b) | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
