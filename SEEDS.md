@@ -98,3 +98,9 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 16864 | Java | 26.3 | Monument + Village in the Deep | Shipwreck (~274b), Village (~319b), Ocean Monument (~466b), 34.7% ocean coverage | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
 | 8752 | Java | 26.3 | Village Island in the Deep | Deep Ocean (18.0%), Village (~122b), Ocean Monument (~734b), Shipwreck (~417b) | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
 | 17613 | Java | 26.3 | Mansion + Monument Pair | Ocean-family coverage ~48.5% (Deep Ocean 19.1%), Woodland Mansion (~590b), Ocean Monument (~590b), Village (~1,074b) | https://minecraftseedfinder.com/best-minecraft-seeds/ocean/ |
+
+| 16293 | Java | 26.3 | Mountain Terrain 41 Blocks Out, Village at 260 | Mountain terrain (~41 blocks), Mountain biomes ~8.1%, Village (~260), Trial Chamber (~129), Ancient City (~1,186) | https://minecraftseedfinder.com/best-minecraft-seeds/mountains/ |
+| 19915 | Java | 26.3 | Spawn Inside Mountain Terrain | Spawn in mountain terrain (~0 blocks), Meadow 2.8%, Ancient City (~705), Trial Chamber (~382), Village (~1,093) | https://minecraftseedfinder.com/best-minecraft-seeds/mountains/ |
+| 896 | Java | 26.3 | Mountain Terrain 20 Blocks Out | Mountain terrain (~20 blocks), Mountain biomes ~4.9%, Trial Chamber (~288), Village (~529), Ocean Monument (~1,076) | https://minecraftseedfinder.com/best-minecraft-seeds/mountains/ |
+| 17198 | Java | 26.3 | Trial Chamber at 58 Blocks, Village in Windswept Hills | Trial Chamber (~58 blocks), Mountain terrain (~225), Ancient City (~260), Village in windswept hills (~1,030) | https://minecraftseedfinder.com/best-minecraft-seeds/mountains/ |
+| 6720 | Java | 26.3 | Mountain Terrain 462 Blocks Out, Shipwreck at 182 | Mountain terrain (~462 blocks), Mountain biomes ~5%, Shipwreck (~182), Trial Chamber (~241), Village (~838) | https://minecraftseedfinder.com/best-minecraft-seeds/mountains/ |
