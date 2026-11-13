@@ -130,3 +130,9 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 16726 | Java | Java (version not stated on page) | Snowy Plains World With an Igloo | Snowy plains ~14.6%, ~28.2% cold biomes, Igloo (~387b), Ancient Cities (~177b, ~226b), Village (~351b) | https://minecraftseedfinder.com/best-minecraft-seeds/snow/ |
 | 16468 | Java | Java (version not stated on page) | Frozen Ocean and Ice Spikes, Less Snow Than Listed | ~11.9% cold biomes incl. ice spikes, Village (~601b), Jungle Temple (~554b) | https://minecraftseedfinder.com/best-minecraft-seeds/snow/ |
 | 12391 | Java | Java (version not stated on page) | A Village 193 Blocks From Spawn | Village (~193b), ~3.5% cold biomes, Ocean Monument (~424b), Igloo (~1,356b) | https://minecraftseedfinder.com/best-minecraft-seeds/snow/ |
+
+| 7000 | Java | 26.3 | Plains, Village, Room to Sprawl | Plains 13.7%, Village (~394b), Pillager Outpost (~455b), Igloo (~128b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
+| 12182 | Java | 26.3 | Three Villages on Open Ground | Plains 13.1%, Savanna 13.2%, 3 Villages (~425b, ~524b, ~653b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
+| 7404 | Java | 26.3 | Mansion Grounds and a City Site | Plains 7.6%, Savanna 2.9%, Village (~465b), Ancient City (~557b), Woodland Mansion (~637b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
+| 19020 | Java | 26.3 | Savanna Kingdom | Plains 21.3%, Savanna 6.5%, Village (~128b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
+| 200 | Java | 26.3 | Desert, Badlands, and an Ancient City | Desert 25.2%, Badlands 6.0%, Ancient City (~238b), Village (~570b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
