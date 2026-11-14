@@ -136,3 +136,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 7404 | Java | 26.3 | Mansion Grounds and a City Site | Plains 7.6%, Savanna 2.9%, Village (~465b), Ancient City (~557b), Woodland Mansion (~637b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
 | 19020 | Java | 26.3 | Savanna Kingdom | Plains 21.3%, Savanna 6.5%, Village (~128b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
 | 200 | Java | 26.3 | Desert, Badlands, and an Ancient City | Desert 25.2%, Badlands 6.0%, Ancient City (~238b), Village (~570b) | https://minecraftseedfinder.com/best-minecraft-seeds/building/ |
+| 2749 | Java | 26.3 | The Cleanest Route | Village (~93b), Ruined Portal (~279b), Stronghold (~870b), Nether Fortress (~406 Nether blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/speedrunning/ |
+| 216 | Java | 26.3 | Fastest Nether Leg | Ruined Portal (~148b), Village (~193b), Stronghold (~878b), Nether Fortress (~210 Nether blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/speedrunning/ |
+| 2478 | Java | 26.3 | Village at Your Feet | Village (~36b), Ruined Portal (~276b), Stronghold (~990b), Nether Fortress (~335 Nether blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/speedrunning/ |
+| 3852 | Java | 26.3 | The Balanced Second | Ruined Portal (~193b), Nether Fortress (~251 Nether blocks), Village (~351b), Stronghold (~971b) | https://minecraftseedfinder.com/best-minecraft-seeds/speedrunning/ |
+| 1504 | Java | 26.3 | Close Stronghold, Honest Village | Ruined Portal (~218b), Nether Fortress (~363 Nether blocks), Village (~455b), Stronghold (~923b) | https://minecraftseedfinder.com/best-minecraft-seeds/speedrunning/ |
