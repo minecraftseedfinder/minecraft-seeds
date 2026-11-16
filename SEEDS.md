@@ -146,3 +146,9 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 404 | Eaglercraft | 1.5.2 | Eaglercraft | Famous classic seed, varied terrain, gravel-heavy area near spawn (around X: 0, Z: -40), flat gravel patch for a starter base | https://minecraftseedfinder.com/best-minecraft-seeds/eaglercraft/ |
 | 777 | Eaglercraft | 1.5.2 | Eaglercraft | Forest and plains mix, stronghold relatively close to the origin (within roughly 1,000 blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/eaglercraft/ |
 | 2024 | Eaglercraft | 1.5.2 | Eaglercraft | Spawns on the edge of a large plains biome, flattest around X: 100, Z: -150, small village to the south | https://minecraftseedfinder.com/best-minecraft-seeds/eaglercraft/ |
+
+| 152 | Bedrock | Bedrock 26.60 (PS4 & PS5) | PS4 | Trial Chamber (~34 blocks), Village (~41), Ocean Monument (~296) | https://minecraftseedfinder.com/best-minecraft-seeds/ps4/ |
+| 68 | Bedrock | Bedrock 26.60 (PS4 & PS5) | PS4 | Trial Chamber (~91 blocks), Pillager Outpost (~144), Ocean Monument (~272), Woodland Mansion (~280), Desert Temple (~280), Desert Village (~360) | https://minecraftseedfinder.com/best-minecraft-seeds/ps4/ |
+| 22 | Bedrock | Bedrock 26.60 (PS4 & PS5) | PS4 | 41 distinct biomes, Village (~198 blocks), Ancient City (~255), Trial Chamber (~326), Pillager Outpost (~690) | https://minecraftseedfinder.com/best-minecraft-seeds/ps4/ |
+| 55 | Bedrock | Bedrock 26.60 (PS4 & PS5) | PS4 | Spawn in desert (~0 blocks), Desert Temple (~147), Desert Village (~335), Trial Chamber (~340), Ancient City (~792) | https://minecraftseedfinder.com/best-minecraft-seeds/ps4/ |
+| 90 | Bedrock | Bedrock 26.60 (PS4 & PS5) | PS4 | Trial Chamber (~104 blocks), Village (~136), Desert Temple (~784), Ocean Monument (~797) | https://minecraftseedfinder.com/best-minecraft-seeds/ps4/ |
