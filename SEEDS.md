@@ -158,3 +158,12 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 12040 | Java | Java (version not stated on page) | Jungle | Jungle ~4.2%, Jungle Temple (~368 blocks), Ocean Monument (~477 blocks), Ancient City (~890 blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/jungle/ |
 | 8962 | Java | Java (version not stated on page) | Jungle | Jungle ~8.4%, Jungle Temples (~148 blocks, ~322 blocks), Villages (~710 blocks, ~730 blocks), Ancient City (~229 blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/jungle/ |
 | 10154 | Java | Java (version not stated on page) | Jungle | Jungle ~5.9%, bamboo jungle ~7.0%, Jungle Temple (~385 blocks), Village (~419 blocks), Ancient City (~501 blocks), Ocean Monument (~853 blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/jungle/ |
+
+| 1817 | Java | Java (version not stated on page) | Dripstone Caves Directly Under Spawn | Dripstone at spawn, Village (~236b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
+| 1498 | Java | Java (version not stated on page) | Dripstone and Lush Caves With Two Villages | Dripstone (~128b), Lush (~405b), Village (~249b), Village (~525b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
+| 2000 | Java | Java (version not stated on page) | Lush Caves 128 Blocks Out, Ancient City Nearby | Lush (~128b), Dripstone (~512b), Village (~448b), Ancient City (~480b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
+| 1464 | Java | Java (version not stated on page) | Dripstone at Spawn, Jungle Temples for Loot | Dripstone at spawn, Village (~229b), Jungle Temple (~759b), Jungle Temple (~865b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
+| 131 | Java | Java (version not stated on page) | Ancient Cities and Dripstone Together | Dripstone (~128b), Lush (~724b), Ancient City (~68b), Ancient City (~311b), Village (~532b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
+
+
+
