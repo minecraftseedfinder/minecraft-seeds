@@ -164,6 +164,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 2000 | Java | Java (version not stated on page) | Lush Caves 128 Blocks Out, Ancient City Nearby | Lush (~128b), Dripstone (~512b), Village (~448b), Ancient City (~480b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
 | 1464 | Java | Java (version not stated on page) | Dripstone at Spawn, Jungle Temples for Loot | Dripstone at spawn, Village (~229b), Jungle Temple (~759b), Jungle Temple (~865b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
 | 131 | Java | Java (version not stated on page) | Ancient Cities and Dripstone Together | Dripstone (~128b), Lush (~724b), Ancient City (~68b), Ancient City (~311b), Village (~532b) | https://minecraftseedfinder.com/best-minecraft-seeds/diamonds/ |
-
-
-
+| 1196 | Java | Java (version not stated on page) | The Triple-Cave World | Dripstone (~256b), deep dark under spawn, lush caves (~779b), Ancient City (~138b), Village (~253b), Woodland Mansion (~582b) | https://minecraftseedfinder.com/best-minecraft-seeds/cave/ |
+| 2700 | Java | Java (version not stated on page) | The Deep Dark Capital | Deep dark under spawn (230 sample hits), Dripstone (~405b), lush caves (~905b), Ancient Cities (~338b, ~555b), Village (~227b) | https://minecraftseedfinder.com/best-minecraft-seeds/cave/ |
+| 1447 | Java | Java (version not stated on page) | Lush Caves at Spawn | Lush caves at spawn, Dripstone (~128b), deep dark (~462b), Witch Hut (~311b), Woodland Mansion (~445b) | https://minecraftseedfinder.com/best-minecraft-seeds/cave/ |
+| 1568 | Java | Java (version not stated on page) | Ancient Cities Above a Triple-Cave System | Ancient Cities (~208b, ~451b), Dripstone (~128b), deep dark under spawn, Village (~355b), lush caves (~1,145b) | https://minecraftseedfinder.com/best-minecraft-seeds/cave/ |
+| 1927 | Java | Java (version not stated on page) | The Explorer's Cave Seed | Dripstone (~128b), deep dark under spawn, Village (~637b), Trial Chamber (~279b), Desert Temples (~766b, ~963b), Ancient City (~229b) | https://minecraftseedfinder.com/best-minecraft-seeds/cave/ |
