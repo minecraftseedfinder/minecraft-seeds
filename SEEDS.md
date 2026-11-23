@@ -175,3 +175,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 1607 | Java | 26.3 | Mansion 204 Blocks From Spawn, Ancient City at 548 | Woodland Mansion (~204b), Trial Chamber (~274b), Ancient City (~548b), Village (~587b), Ocean Monument (~709b) | https://minecraftseedfinder.com/best-minecraft-seeds/mansion/ |
 | 10277 | Java | 26.3 | Mansion 213 Blocks From Spawn, Village at 225 | Trial Chamber (~195b), Woodland Mansion (~213b), Village (~225b), Ocean Monument (~580b), Mushroom Fields (~431b) | https://minecraftseedfinder.com/best-minecraft-seeds/mansion/ |
 | 2849 | Java | 26.3 | Mansion 227 Blocks From Spawn, Outpost at 304 | Woodland Mansion (~227b), Trial Chamber (~229b), Pillager Outpost (~304b), Village (~586b), Ocean Monument (~841b) | https://minecraftseedfinder.com/best-minecraft-seeds/mansion/ |
+| 4142 | Java | 26.3 | Flower Forest + Ancient City | Flower Forest (2.7%), Ancient City (~195b), Village (~400b) | https://minecraftseedfinder.com/best-minecraft-seeds/beautiful/ |
+| 3169 | Java | 26.3 | Meadow Valleys | Meadow (3.5%), Trial Chamber (~795b), Ocean Monument (~830b) | https://minecraftseedfinder.com/best-minecraft-seeds/beautiful/ |
+| 2298 | Java | 26.3 | The Flower Forest Pick | Flower Forest (2.8%), Igloo (~350b), Shipwreck (~790b) | https://minecraftseedfinder.com/best-minecraft-seeds/beautiful/ |
+| 2252 | Java | 26.3 | Flower Fields + Twin Villages | Flower Forest (2.5%), Village (~790b), Village (~920b) | https://minecraftseedfinder.com/best-minecraft-seeds/beautiful/ |
+| 67 | Java | 26.3 | Badlands River Country | Badlands (7.3%), River (7%), Ancient City (~260b), Village (~400b) | https://minecraftseedfinder.com/best-minecraft-seeds/beautiful/ |
