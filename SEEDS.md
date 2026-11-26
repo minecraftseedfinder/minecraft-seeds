@@ -190,3 +190,12 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | 3811816932 | Java & Bedrock | version not stated on page | Multiplayer | Island cluster, two shipwrecks, ocean ruins, monument nearby; Shipwrecks at X 16, Z 96 and X -208, Z 144 | https://minecraftseedfinder.com/best-minecraft-seeds/multiplayer/ |
 | -246009129645112791 | Java & Bedrock | version not stated on page | Multiplayer | Twin islands 250 blocks apart; Islands at X 0, Z 0 and X -125, Z -250 | https://minecraftseedfinder.com/best-minecraft-seeds/multiplayer/ |
 | 37436171902825252 | Java & Bedrock | version not stated on page | Multiplayer | Two villages near spawn with ancient cities below; ancient cities at Y -51 | https://minecraftseedfinder.com/best-minecraft-seeds/multiplayer/ |
+
+| 4606 | Java | 26.3 | Swamp | Witch Hut (~36b), Village (~703b), Ocean Monument (~580b), Slime chunk (~34b), Swamp 0.9%, Mangrove Swamp 1.1% | https://minecraftseedfinder.com/best-minecraft-seeds/swamp/ |
+| 5402 | Java | 26.3 | Swamp | Witch Hut (~160b), Village (~163b), Witch Hut (~750b), Slime chunk (~25b), Swamp 9.2%, Mangrove Swamp 4.9% | https://minecraftseedfinder.com/best-minecraft-seeds/swamp/ |
+| 18574 | Java | 26.3 | Swamp | Swamp 2.6% + Mangrove Swamp 3.5%, Village (~333b), Ocean Monument (~326b), Witch Hut (~1,017b), Slime chunk (~11b) | https://minecraftseedfinder.com/best-minecraft-seeds/swamp/ |
+| 3831 | Java | 26.3 | Swamp | Village (~177b), Swamp 6.6%, Witch Hut (~1,060b), Slime chunk (~34b) | https://minecraftseedfinder.com/best-minecraft-seeds/swamp/ |
+| 13886 | Java | 26.3 | Swamp | Witch Hut (~336b), Witch Hut (~385b), Village (~548b), Pillager Outpost (~758b), Swamp 9.0%, Slime chunk (~11b) | https://minecraftseedfinder.com/best-minecraft-seeds/swamp/ |
+
+
+
