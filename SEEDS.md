@@ -199,3 +199,8 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 
 
 
+| 1836444154 | Bedrock | version not stated on page | PS5 | Plains plateau spawn, Village (X: 120, Z: 64), Pillager Outpost (X: -280, Z: 360), plains and sunflower plains | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
+| 998877665 | Bedrock | version not stated on page | PS5 | Ocean Monument (X: 496, Z: -656), Mushroom Island (X: 840, Z: -520) | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
+| -1029384756 | Bedrock | version not stated on page | PS5 | Woodland Mansion (X: -1184, Z: 792), dark oak forest spawn within sight of giant mushrooms | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
+| -554433221 | Bedrock | version not stated on page | PS5 | Cherry grove spawn above Plains Village (X: 88, Z: -240), Ruined Portal (X: 150, Z: -180) | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
+| -1122334455 | Bedrock | version not stated on page | PS5 | Stronghold portal room under Plains Village (X: 1208, Z: -376) | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
