@@ -204,3 +204,5 @@ A running table of the best Minecraft seeds curated by Minecraft Seed Finder. Ev
 | -1029384756 | Bedrock | version not stated on page | PS5 | Woodland Mansion (X: -1184, Z: 792), dark oak forest spawn within sight of giant mushrooms | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
 | -554433221 | Bedrock | version not stated on page | PS5 | Cherry grove spawn above Plains Village (X: 88, Z: -240), Ruined Portal (X: 150, Z: -180) | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
 | -1122334455 | Bedrock | version not stated on page | PS5 | Stronghold portal room under Plains Village (X: 1208, Z: -376) | https://minecraftseedfinder.com/best-minecraft-seeds/ps5/ |
+
+| 1928 | Bedrock | Recent Bedrock (26.x) | Switch 2 | 54.9% ocean, Ruined Portal (~11 blocks), Village (~297 blocks), Shipwreck (~376 blocks), Ocean Monument (~419 blocks) | https://minecraftseedfinder.com/best-minecraft-seeds/minecraft-seeds-switch-2/ |
